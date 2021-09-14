@@ -4,7 +4,7 @@ import telepot
 import time
 import random
 
-TOKEN = "INSERT TOKEN HERE"
+TOKEN = "1930823211:AAGfu5Nm08lt396Apl6vNIpKGTFIY4OMxyA"
 
 def handle(msg):
     content_type, chat_type, chat_id = telepot.glance(msg)
