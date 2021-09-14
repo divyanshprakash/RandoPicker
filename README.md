@@ -30,3 +30,6 @@ python bot.py
 ```
 
 That's it. Now simply start the bot and let randomize the world!
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/divyanshprakash/RandoPicker)
+
